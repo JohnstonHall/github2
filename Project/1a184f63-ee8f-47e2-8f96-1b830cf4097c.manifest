@@ -3,6 +3,8 @@
   <Application applicationName="sysmac" applicationVersion="Infinity" />
   <Solution solutionName="github1" id="1a184f63-ee8f-47e2-8f96-1b830cf4097c" trackingId="f167c558-69a6-42b0-9e24-206e1d50ecd0" solutionSchemaVersion="2">
     <ApplicationFeatures>
+      <ApplicationFeature name="HMI" />
+      <ApplicationFeature name="NA5-7W001☐Version:1.08" />
       <ApplicationFeature name="V102Project" />
       <ApplicationFeature name="SetUnit NJ501-1500 Ver. 1.17" />
       <ApplicationFeature name="TransferInfoAndBuildResultsEntitiesReduced" />
