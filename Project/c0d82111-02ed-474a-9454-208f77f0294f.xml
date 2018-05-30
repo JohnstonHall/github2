@@ -1,1 +1,1 @@
-﻿{"CLs":[{"__type":"LD","Var":"input"},{"__type":"LD","Ix":1,"Var":"input2","Y":1},{"__type":"ST","Ix":2,"Var":"output","X":1}],"LRI":3,"RRI":4,"VLs":[{"Ix":5,"X":1}]}
+﻿{"CLs":[{"__type":"LD","Var":"input"},{"__type":"LD","Ix":1,"Var":"input3","Y":1},{"__type":"LD","Ix":2,"Var":"Input4","X":1},{"__type":"ST","Ix":3,"Var":"output","X":2}],"LRI":4,"RRI":5,"VLs":[{"Ix":6,"X":1}]}
