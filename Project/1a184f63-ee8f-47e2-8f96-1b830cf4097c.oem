@@ -23,7 +23,7 @@
         <AccessInfos />
         <ChildEntities />
       </Entity>
-      <Entity type="Device" subtype="NJ501" id="f8ec77f2-61e0-4f30-8d1f-fe85bd4c4984" name="new_Controller_0" version="0" dateCreated="05/29/2018 15:42:25" dateLastModified="05/29/2018 15:42:26" trackingId="f9cb08e6-fc8a-4d0f-920d-9194ed03985f" hash="e8c81060d36a01789368e1d374460b44" DHS="7c65c00f45ad5aaa4191e65ed866cddf" TH="2f395d4739f72395bd9dc7adfda48bd2">
+      <Entity type="Device" subtype="NJ501" id="f8ec77f2-61e0-4f30-8d1f-fe85bd4c4984" name="PLC1" version="0" dateCreated="05/29/2018 15:42:25" dateLastModified="05/30/2018 14:40:23" trackingId="f9cb08e6-fc8a-4d0f-920d-9194ed03985f" hash="e8c81060d36a01789368e1d374460b44" DHS="37f3fa256098b8f5f4af78f6ae176943" TH="2226eddc57ed087f443475ab4ac848e1">
         <AccessInfos />
         <ChildEntities>
           <Entity type="Watch" subtype="" id="42851da7-f993-4372-aeb7-4e5f422e9965" name="Watch" version="0" dateCreated="05/29/2018 15:42:25" trackingId="279095a2-1796-4000-b42e-8f41ec80efcb">
@@ -66,7 +66,7 @@
             <AccessInfos />
             <ChildEntities />
           </Entity>
-          <Entity type="SourceCompareId" subtype="Configuration" id="fceea15f-1fea-4eaf-9742-8201daf8c4cd" name="Comparison ID for Configurations and Setup" version="0" dateCreated="05/29/2018 15:42:25" dateLastModified="05/29/2018 15:42:26" trackingId="50ab900a-a999-4880-a03e-b4baecff8918" SDName="Comparison ID for Configurations and Setup" hash="35eadd980cc78921cfa5d99d6b69f662">
+          <Entity type="SourceCompareId" subtype="Configuration" id="fceea15f-1fea-4eaf-9742-8201daf8c4cd" name="Comparison ID for Configurations and Setup" version="0" dateCreated="05/29/2018 15:42:25" dateLastModified="05/30/2018 14:40:23" trackingId="50ab900a-a999-4880-a03e-b4baecff8918" SDName="Comparison ID for Configurations and Setup" hash="7e7ce7b229f26b7e7a9b47351d1852fe">
             <AccessInfos />
             <ChildEntities />
           </Entity>
